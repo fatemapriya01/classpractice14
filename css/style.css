@@ -1,0 +1,11 @@
+.custom-indicators li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+.custom-caption{
+	bottom: 116px;
+}
+.custom-icon{
+	background-color: black;
+}
